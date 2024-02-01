@@ -1,0 +1,6 @@
+../Core/Src/ADF4351.c:36:6:delay	2
+../Core/Src/ADF4351.c:42:6:WriteToADF4351	4
+../Core/Src/ADF4351.c:122:6:ADF4351Init	1
+../Core/Src/ADF4351.c:165:6:WriteOneRegToADF4351	1
+../Core/Src/ADF4351.c:174:6:ADF4351_Init_some	1
+../Core/Src/ADF4351.c:181:6:ADF4351WriteFreq	10

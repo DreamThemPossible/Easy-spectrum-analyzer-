@@ -1,0 +1,8 @@
+../Core/Src/task_manage.c:44:4:Task_Delay	16	static
+../Core/Src/task_manage.c:63:4:TaskCycleDelay	24	static
+../Core/Src/task_manage.c:86:6:Copybuf2dis	32	static
+../Core/Src/task_manage.c:107:6:Set_PointFre	16	static
+../Core/Src/task_manage.c:158:6:Task0_PointFre	40	static
+../Core/Src/task_manage.c:204:6:Task1_SweepFre	40	static
+../Core/Src/task_manage.c:297:6:Task2_DrawSpectrum	32	static
+../Core/Src/task_manage.c:348:6:fre_buf_change	24	static
